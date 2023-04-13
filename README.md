@@ -1,7 +1,7 @@
 <h1>Online Store Web Site / Home Page </h1>
-<h2>Amaç ve Kullanılan Teknolojiler</h2>
-HTML-CSS-BOOSTRAP-JAVASCRIPT kullanılarak dinamik yapılı tüm cihazlara uyumlu online alışveriş için kullanılabilecek bir web sayfası arayüzü oluşturulmuştur.
+<h2>Purpose and Technologies Used</h2>
+Using HTML-CSS-BOOSTRAP-JAVASCRIPT, a web page interface that can be used for online shopping compatible with all devices with dynamic structure has been created.
 
-<h3>Ekran Görüntüsü</h3>
+<h3>Screen</h3>
 
 ![](store.gif)
